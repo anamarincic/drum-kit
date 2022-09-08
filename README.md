@@ -1,4 +1,4 @@
-# My-site
+# Drum Kit
 
 Drum kit is site where you can play and make music.
 
